@@ -1,0 +1,26 @@
+{
+  "name": "Bessie Simpson",
+  "age": 22,
+  "address": {
+    "street": "Biduh Turnpike",
+    "city": "Vupadol",
+    "state": "TX",
+    "zip": "65232"
+  },
+  "contact": {
+    "phone": "(439) 929-5439",
+    "servicePhone": "800298919"
+  },
+  "birthday": "1980-09-13T13:14:06.604Z",
+  "ip": "207.43.169.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Gobiv meg uz gipulzod sohcos losawu wobviga itukaniz partuco darbi ezaako fislam cosobwen futihru alupu vap. Eco hidgehas ofoji nabolawon vewi roczuhu favu hewisuzo etliawi tu jodke sirve semupe rarawow cej kopvog inwoti pir. Ihu loh zat idema awnun cadokaudi otbu minago je jomjo cagoguja osideuvi re giw juaj le beuko puhib. Pebo fe bid vodawu zeeso botre nufcuslac vuwjom gew jad jopilel ezuhu bodoeni nimmodim si.",
+    "bio": "Cekofnic bacnuk julimsor fub genas godtet fucfik wosdazepo mod novec safsudmo hepco rozuhu laonuf numvo. Wor moredu fimi vu eb oto ec tor huho mi cice ker ipjog go tiwete. Cifi cavrejag tatma je gac botrec roz alibaba rizig ej uhkutgig ni lis cuce. Vob janluwom biwjevze adi karzob lorowozor hepze muguiju jadze pil rejho vodad purem. Heoveosu opebubo uzzol lonuf kulunze na zizlu eluc iculufas sutwidev odnekvi gavkob vo."
+  },
+  "apiKey": "1faaf13fc7f652f4f1b419640cf849a3868c2c3d345d7b06a8b2e1b7b75723d6",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
