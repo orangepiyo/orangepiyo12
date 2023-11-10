@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Gilbert",
+  "age": 53,
+  "address": {
+    "street": "Fehur Court",
+    "city": "Tirpakmuk",
+    "state": "WA",
+    "zip": "85992"
+  },
+  "contact": {
+    "phone": "(704) 907-5247",
+    "servicePhone": "800693249"
+  },
+  "birthday": "2001-10-19T18:32:21.826Z",
+  "ip": "190.223.207.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Bizueb gewool kirgij hin anedozri da gi poljic buhiob zo jub vor mi silvahva zufac. Zudolu ef soovi kudiwoz na zanfif lendi epout ru hohan zavlo buohguc kingarju hafaij gos duz. Ad givje lujzersa daso bakmi mezo borilu cinci nevvac mizu vebagtim wiguwac.",
+    "bio": "Je bezohezo rohwiuru takgi ur fier funalgi atelana ha femoheaw ga karwomsob. Pi dacjioci jamletaz esudurfe an ibte zis geev dih job puj uwhon hegka pa zawelna. Teghir nofetsin oz jaznif kual je podmijfi bojtu ja ransabim mien huktes elbazba tus zoepaso sevvat didebni jil. Lah did ve hozkihzu of je mimza ebi nolgedwo nelezi tag nilzi."
+  },
+  "apiKey": "c2eba1f99bcfba16a8770e48eca727c239e8feff2c91573a46ef6addebe8f61c",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
