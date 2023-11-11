@@ -1,0 +1,26 @@
+{
+  "name": "Joel Bowman",
+  "age": 31,
+  "address": {
+    "street": "Feup Way",
+    "city": "Geagopu",
+    "state": "MT",
+    "zip": "43307"
+  },
+  "contact": {
+    "phone": "(903) 740-5014",
+    "servicePhone": "800624349"
+  },
+  "birthday": "1987-10-18T02:30:43.611Z",
+  "ip": "1.23.29.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Hugmikis re fetpemwem azzibogu kewezac oku gib wojrikac aj wimutav wuvan ukebce pomceb utwaice ri. Wok fitori wa asufol ne wodajrar sovtob corpi hanubaza ivupiv gur fueso po ti. Ziwhi kab fazimeja wusarwiv wolzib oreziwu soer us athotar zu gim beb gati pip. Viazu war wikuvup nollaf ozoecsev izudikul couj ri ziic oghol necotuvo guczij zij ha bidzal jol nakvu. Me pagonimi togolwi houlewo kiho zus fubabfa ika herceca uskamiv it bo veb tegiuru. Cowesijo rupilgu fesicvof rip co sud bevimpu hufotebi gocu wuivre dubokjo ran.",
+    "bio": "Dicnune ucep digoz waup cenwev mev ej harezpig lugla gen cufovo na sohedwot luag saz. Oh rodedid vunben duuw votbinote darfi jeik deh vogkefeb oregutun ibokuj sun dugica eg pavez su elovan zavgu. Cedreri odpu hizame tur mekgegheb gob jiril tidmawug jo rem lashet jivgu zilu vuge pe jojeeh pafjaddeg. Ze adarufig uwodo wof lubcihujo lorebufe zilwez eh mosdis luocmer kuciri ne uvjitcat kowawo vi."
+  },
+  "apiKey": "628e78f9c2fb6e3dc1d1df020b9f198898b9be9df0021b52918af93f8d6aa6d1",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
