@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Cross",
+  "age": 25,
+  "address": {
+    "street": "Howno Key",
+    "city": "Ovanolej",
+    "state": "MI",
+    "zip": "56918"
+  },
+  "contact": {
+    "phone": "(381) 839-4386",
+    "servicePhone": "800418291"
+  },
+  "birthday": "1998-01-15T14:03:00.671Z",
+  "ip": "35.196.251.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Von hi ce ci sa teik ateawi kov zag ifu fot wumi wis. Nolo topwiw olugok eheuzi ov cefgerve uhobicwo mifaik ukve jegis ob kanaj le famusso. Kuma wulanih vawnidu durcip gem lum lazacub luboati ifuko ceipusa lihsesja tucuro ha vil wef len.",
+    "bio": "Zu ecu wi lacsac usaife uholadjo fiphe kel genno tom wiaf dojfa. Foov asro joife ke atgi gasnil mude meonbez zufozutoh vu hihsagho jieda jeb hezwin lu elpoga ced. Casjictav palis uznovsir rudpija muzmata jubgehep osivgum kina wo pafegi divebe enahumil cavimew jofa pag ew li ze. Huho solez uk pooku nebevra lagod wijni him cac jivof jijetiz hesavco. Ifapa siojiga senarfe mov gugpir gil na pagmuho muwujosa bor uncos zad ratah ozeracbi otiifait livda samked jafcimso."
+  },
+  "apiKey": "33b6d148feb4e7fb5a12974e442a24c00cc0b77a1e546164340166e30ee4fc5f",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
