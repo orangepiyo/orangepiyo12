@@ -1,0 +1,26 @@
+{
+  "name": "Howard Jefferson",
+  "age": 64,
+  "address": {
+    "street": "Duzo Extension",
+    "city": "Lobpoha",
+    "state": "AZ",
+    "zip": "42582"
+  },
+  "contact": {
+    "phone": "(635) 601-3114",
+    "servicePhone": "800521429"
+  },
+  "birthday": "1989-11-12T21:34:22.090Z",
+  "ip": "182.148.60.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Itirup imge os voz selici coro ut doejudo upi zarwozzad ukatueca nabcif faznihbu udolvi segeg. Fodig notawhiv nog tol nilto asu rek cah kobed gev etja nib etcir lubofu cuw. Hiimufu mozite ka uhoovdah cu ba okroda punas omoafuezo suzco juneca ebjove lage bimi junlikfe. Foegve wa vehi wiiwirom uku hu luw kuhguk hituhe niamo co wakozke luaweul masu jisja.",
+    "bio": "Ow hegiwe zef wa dih gogsagip urdurem wa ebahohep imbik gokfuc fuusawo depjagwo tewiud. Vamja wuje son macit oj tap rohbur wiwositur gebsicew pot pas vovo zideke ahasodu dedi re. Lafeor nenob cu ojbahur tul wikmo sedidci segapor if ij omazuzum ciworufo misahal sabub."
+  },
+  "apiKey": "e7f851500a71a937738196b92e86735c396a2bc7046505179afcc9ab5911424c",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
