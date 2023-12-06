@@ -1,0 +1,26 @@
+{
+  "name": "Verna Fields",
+  "age": 48,
+  "address": {
+    "street": "Netor Turnpike",
+    "city": "Emuvido",
+    "state": "DE",
+    "zip": "05027"
+  },
+  "contact": {
+    "phone": "(474) 541-2631",
+    "servicePhone": "800624759"
+  },
+  "birthday": "2005-12-19T03:26:41.534Z",
+  "ip": "2.140.139.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Eruzi ca mul vovuniful zefkoip kicdenig ge rupuroz sen kem zu hoahusu diz avurur avdah cufwido etifi nuroohu. Big nu nav oz doazolo ez api maogutaj gaulnov bikiup arenezi cu gulruriw mis gu sudo ajawahu. Giz faffaula vawbam zotcu evkoku uru pebneumu biofili oveiso war hun tumi mi osrem.",
+    "bio": "Gukag wef bimpugoh ebukopulo zebacabi kuzu zuvehu akoga ugusaj jo cecmaspi gi kip gemjine nu. Kovo kecbiz ma ravicik kogo jirevje fellu biiwu wuro po ewe popcokni. Ajvo fubib bepcuek feg ja riso ni ukacu moebu wachujeh demitwa dijhukat zebi hibeb puf beb. Ul bop new poupanib wuzuz wadepa kacdibjek burvivzo nawobeelo zut tesic jeud cihivot ulfuz lewvoj le. Ludilhin da ejbahan pebnukgo me sikiriwa siihasa veifi liril ku vumadwa von ahu utbe."
+  },
+  "apiKey": "fdbd8b91b1c4d48ae9f883e43739d755fe32ca47133b8617d9186ea325a5dc11",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
