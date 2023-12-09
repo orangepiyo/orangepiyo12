@@ -1,0 +1,26 @@
+{
+  "name": "Winifred Barton",
+  "age": 26,
+  "address": {
+    "street": "Maljul Boulevard",
+    "city": "Vatuhi",
+    "state": "IL",
+    "zip": "36496"
+  },
+  "contact": {
+    "phone": "(885) 748-4568",
+    "servicePhone": "800941219"
+  },
+  "birthday": "1989-02-28T04:55:33.831Z",
+  "ip": "196.28.219.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Lofcauv uhnoh hedot wun lak fadze nutozelag fe fofkif cetu ivezapop da nojpeb suko watfik. Izjan duve dokhive wauf pizeice uclar amgot wuda ejsow oh vireraes mih dujig fofka. Iwuf soiva zossef lugat gahuwbo ali dares bohanso maed tehsekjit pecanuc emo. Bufaco fu cewi nef jolubla odeiv valintak hu kap re kewfi izihi lalifpin awu ra. Wiicehe si zabco ni hiec noh wuwrufu mevset potri vujmel pohakeb lul. Zije zanimbuk ut igofu rase omize osewozuc fe epnomdif lac wive vi jeowjal zu ar vebim kuvfegiz. Lo ko dupeiko tujigiih degjeg efizodo tudrujud vupopas uviet nuk suzif ihmu pum.",
+    "bio": "Ziop lud imoigoda fa dus veifi vila obbudkut jezpivcut elosa bo ku ficor dafsuv kos zipaki vewkupjas. Bukcofos lekgoh wad muhho fifsaw ori woke gavag hewik waejni eke isgido dih ton co livo vogew. Ufe tuvmu fimape ridcu vijmo cozev jimuor ruz salo vasjiobu jouswe nimidutag din ehilu kag fasozin."
+  },
+  "apiKey": "fecdbb0708aafe290a72bec22112cb755cdfe826322aa4e6ee37e5e8a3fa5881",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
