@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Ryan",
+  "age": 59,
+  "address": {
+    "street": "Mouf Lane",
+    "city": "Pemefu",
+    "state": "AZ",
+    "zip": "16300"
+  },
+  "contact": {
+    "phone": "(645) 396-2136",
+    "servicePhone": "800792978"
+  },
+  "birthday": "1974-01-13T15:20:49.030Z",
+  "ip": "147.254.249.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Ufonuwas zub puh vis bazan duc inujil kol luk uzbez fallam cenu volo retesibeh jor. Komi sew tisajob rita kovmop iricuic umu kuoz po se mabap heg bul isazeknur. Ze cot modtep lak suigdah puzijvu tuzuzabo noc katwu du nuw hemaawi pemtu daf wogakid unu ju ronesa.",
+    "bio": "Na kalezi ka ifalowsi evkaz dibzaaro ukapiwko nu efesumtow dozsib hujom bavhaf gerlar honzuvol huhenge. Zecuhi si umu kawew is diwa zaurzi coh bekot sinzo kuifiwew fumziwaso oliga wo folauna. Zoniami piphe mik gukmaj visoscoj todi med bavucuw be ho acince zovu vogoh."
+  },
+  "apiKey": "9b2865947b9a19eea4c9252700f470ce966524616a5e8b1dd37c90e437ca8d4c",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
