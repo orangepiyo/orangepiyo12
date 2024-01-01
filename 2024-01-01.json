@@ -1,0 +1,26 @@
+{
+  "name": "Amy Hubbard",
+  "age": 57,
+  "address": {
+    "street": "Rote Loop",
+    "city": "Owokema",
+    "state": "MT",
+    "zip": "61306"
+  },
+  "contact": {
+    "phone": "(822) 248-9701",
+    "servicePhone": "800735581"
+  },
+  "birthday": "1966-06-16T03:49:36.941Z",
+  "ip": "152.110.117.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Litti imifka funoan odi pijjodpal pafna poanovi siwun upa ze ti nageuv zobaz vuivwa jeih. Etilpe mezudi ahawepcin hehi hi ebobalas kifod ovla ejuneeka zoder elavi fu zepic eje bi il todzavwod hami. Adso meev liwzuuh weki zozaptu nestat hiwileh roj idca tojepo vu sofne onupadpa cu rebis liwaw golot.",
+    "bio": "Olvocef vitgijop iklazi amu zitcu do ce tew cuj efajis ispus kis kun ol kolodawo ukevadi hulekbor. Re vobikfow joducjow zaukoce vasip ovsuit hismaw tu gukjoog kebnatram nigum micsigepo miuvo wa hega jujin ehumuvo. Vokwidhi uwajebol rinfac mo pe dipignev ge hezah kulu behgijig zot pas zos mukufdot woecees mumroj ra tukpipvoj."
+  },
+  "apiKey": "ebd75231a13e957444ce217e5612f3cee3cb513e41723167f6756938c55a9b4e",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
