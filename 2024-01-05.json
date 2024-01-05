@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Leonard",
+  "age": 51,
+  "address": {
+    "street": "Koniz Highway",
+    "city": "Datuvol",
+    "state": "IN",
+    "zip": "72107"
+  },
+  "contact": {
+    "phone": "(470) 890-4983",
+    "servicePhone": "800573726"
+  },
+  "birthday": "1977-03-25T04:48:12.357Z",
+  "ip": "60.92.232.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Cutoja velof van muvendi wa rah dus fi ij pemhik imo ija gepgiz mowlak carze ijugupa ko. Ha natrihu giz rawedo fuz husbet utvif rehbo fan nuon lenserit de gidi alteri ka. Beuj re se oba worura obeaf ketni gofpop labzickar ijsur ujotu gezbumo urpofo ate.",
+    "bio": "Galnu pes ubo vu nuce api naomi diasisur ziwado oho metpu ugaepujef zo vopdiw bizot. Nizfac bev howusseb wonboh azmi wuzete moh mutvod rid nuupo mendu orjavev cuhvizazu fiarozo abafivu. Sakagu wu eh jojiv sugom ke bef cep aze volav tanko huwahe fizek novel. Giwab leetzob ha gip lazgaw ta hemu go akvado cezducri fepunil wat fowi nukru. Ikauwata tiwjimi tacranpib muv waj kici kewiopa gozge tukzopop cihpu ma cu. Ojhitbe sugjoten nalfoz nuti da ru desbu vu wizrajsi vako lo teficoha otupad sazgethaw fu iheulepev unive bak. Tacip vautowu he headewij cidzuel wikzoma fiha bohruw we ce ci ebagu."
+  },
+  "apiKey": "f0f2f5a91dd5265d153902cdbdf117df4675c0274af811f5ce37fb7f490dad22",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
