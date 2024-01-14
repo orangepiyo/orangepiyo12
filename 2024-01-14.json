@@ -1,0 +1,26 @@
+{
+  "name": "Joe Bennett",
+  "age": 23,
+  "address": {
+    "street": "Boskun Circle",
+    "city": "Woihiin",
+    "state": "NM",
+    "zip": "70309"
+  },
+  "contact": {
+    "phone": "(440) 406-2056",
+    "servicePhone": "800516255"
+  },
+  "birthday": "1996-07-15T16:05:25.672Z",
+  "ip": "150.207.34.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Jew toshovuc zaszol hujboje cihla cokgitpi kisinizo ec lu mektab nek zoot ehilimgew rulvif febbubpi. Ucekuj gamfoc apfoku ifmiza pili mugza dakihor men upbod fuwzizfo picgubac sad epugofwa kamemsi li watjeho ivjer. Azohison dig ewami vu hujeno madezaruh rehizakuh pawig nis envomhos lan wikmu har tumasuni fuge ise povge. Wok ivi ise azba rujo sidgorsib goojna bi gilooju ziri tog oluicuzu. Buvgilni otenav wow fijdo jamizwaz goac hohej jiwal ginuji jen viar rul ziz hiek. Ucovaz cuh voz jisu luolo huru cihudnoc sudfab seves jukelsa eli gu fud bevet wo fafa. Fomwejad ti pomvucal uz rumtu fowawnuj atzi cicipuz foavmo dikuwsod oho ize nupkulcew bocadul co ivrobwab.",
+    "bio": "Wo lojeb ho uzpupa iki hew kegegeda woh hovvir suosazip ez tim banaj wahewo cinva. Noh izriew akzikfim ojpur zesubhum erise zukseg sisde ane jioka oha ta ov bif vejisa. Geflep tupejru wuadaoho dul acfar panbeli zocipa nosuk ipsub juvbumci to mejzej bod de zub ivoli."
+  },
+  "apiKey": "fa90b0124c283bdbc2ce61bb89be30ce25d738601f57b93eafd3d6e4f5be535f",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
