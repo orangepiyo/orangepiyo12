@@ -1,0 +1,26 @@
+{
+  "name": "Jon Barnes",
+  "age": 45,
+  "address": {
+    "street": "Zochu Junction",
+    "city": "Temowanan",
+    "state": "NM",
+    "zip": "63974"
+  },
+  "contact": {
+    "phone": "(967) 990-8827",
+    "servicePhone": "800497832"
+  },
+  "birthday": "1971-03-09T16:45:32.690Z",
+  "ip": "65.56.227.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Ut pavih kuv la arakazip jof kivmiik ricgutson notcog caco cirtur map. Cewhu vafis fiot mof tiliv eluuca wapizru hoc ga kudir hiotifom fajfuppe tu. Cuj ki kuwo huswaf necosat kara serohfi hek bohoptu ji iso imuletraj zeg. Lasmac kemali ejemajfug so enahotvi arokobfij bevucbi bes ejpa san co bofveh asu.",
+    "bio": "Vohoso zu zike fun zab cur varpe ifenoid so pag cohditoj we. Ni fo gorulah ce esusujag pugogejo pih suljockof lo domikven welaple hojfu vupes. Uda boiwvip ukefa gula oci miwof ebogutol neg hesfu regotmi dil cuutse."
+  },
+  "apiKey": "35fb1e10c26e9f18bf1ad4fe19b727885fd26e333e4e7d5980c3f5fc1ffc9995",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
