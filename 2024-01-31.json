@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Cole",
+  "age": 18,
+  "address": {
+    "street": "Pucefo Glen",
+    "city": "Kajnorve",
+    "state": "ID",
+    "zip": "30882"
+  },
+  "contact": {
+    "phone": "(673) 484-6237",
+    "servicePhone": "800289758"
+  },
+  "birthday": "1976-10-12T17:09:35.382Z",
+  "ip": "177.137.8.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Bic ja hunolu opnen es mogaha kegew fav tedgoh leknipel ku feus. Wafteh fewej am gev uzasade nat zawkiwos giw ga ed wowit pof fep. Deso ivbasboc zudlaub zudeba ibfunhoz urpamdi fibpuguw covef fuurdu ra bivu igwu bidirfu we tumabar danjitiva lawmocdo. Juetauzo zudewu gogwooro jug duvu pirmore camezu vaew taszew tu novom on. Vad luksalir rod le rafutab mi inuucjim jupdalaf dafuzel dozdon idejago lejdirga jelzowow. Laif zek edu webtek zujso uvi mun pe eviulegiv ris mouc dezluwa tug kawmom utu muul ekagelor. Kuzfojen difros ok wew sinig cel beh ra mawkajvu efogo zi resutu wodto uwku ucfasgo iwzaw.",
+    "bio": "Jubpieb maj otesem mohehup lospanhif odivursej cepda ravo nah difwew bol izvi sa vovoh ru. Paeren gekuru iduhu ade jaz opuhisoz jihvow fegomo jame lawgeftaf cef tigfinod. Kalac girlotal mof ma omu cuwi gofguf wewuf ujdol loogika zesi kaoju zag idre kug."
+  },
+  "apiKey": "0bb73f6a2c1b3a26fa33fbca5a3a452bb1852bd9361af5b11e1b5a1b581095f2",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
