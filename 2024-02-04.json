@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Love",
+  "age": 31,
+  "address": {
+    "street": "Bofzun View",
+    "city": "Kucekdec",
+    "state": "MS",
+    "zip": "75280"
+  },
+  "contact": {
+    "phone": "(309) 516-2362",
+    "servicePhone": "800226973"
+  },
+  "birthday": "1989-06-20T21:46:45.165Z",
+  "ip": "207.129.223.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Diw heihuweg ver ow etoawu vo kangadze wufdu fivowogu uvihezke fawajpi owuimudal bufhopfim haehe. De patka muwfufeg ge ta feluj bumu luk hu fowlul tubokun focva. Vetwid be nukilre cifawepu zise nu bada ovawi welozan how gusmicdah bojirodo filacuc ne.",
+    "bio": "Dij upzefiz akwav mociblan nucum ilihasuci zul re ganbilzu oto lirno pabci he tehiehe. Ne zotikha nebic ahoho hobdera dubimovol viv re favagzi iwuda lumetu bu. Tedzeg bavezjoj unokuf gezaspe bonevez vibu tohkur wollusha daf bozmiep epaedodej ji. Nu pohigito gaidule ratsok fi gartik efpodsa teze pahim paahkam zufo imeic ita bubwev."
+  },
+  "apiKey": "0b2ede618e831c2ad60a7d94fb5866c6e7421bcd353d4ca921a407a1feb8109b",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
