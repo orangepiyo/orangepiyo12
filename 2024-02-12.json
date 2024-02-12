@@ -1,0 +1,26 @@
+{
+  "name": "Luis Patrick",
+  "age": 24,
+  "address": {
+    "street": "Bocsas View",
+    "city": "Wicnirca",
+    "state": "MA",
+    "zip": "23303"
+  },
+  "contact": {
+    "phone": "(607) 520-7379",
+    "servicePhone": "800488662"
+  },
+  "birthday": "1986-08-07T19:33:13.318Z",
+  "ip": "45.107.29.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Haolusi ehafijut huphej lollehnef kel daltafef ilnes moj rughij ushiw jame lepliwo ijiva lepekova bar. Ciwozpim re hi efrozu po zinsus ol but gali rog egute ikuofu. Tohfazag netotamak likren culke tad rez zoblijuf od wo vabniih uznig duzhucri merguje. Doneuwa vafgik boawelu zagufos irev petbolpu wibka maciin utizijhe ka su oru wiho num. Zecuhan fulkafah es wawidgem akuvu okafihud jozmigu ovnor deokawe ima ja baomi.",
+    "bio": "Bat ode cudusaf hevofek zu jezidsi liawarav ku wo so kekfigon zilita serhigof sacu ufofak kucvila. Deaju pikake zajif nioru pok wudi reccuse te roh sekow obeduken ivhe newfuhur ve gezegjuf rubaveraz. Acumof eje ceuv beckub ipotiap zi le fo tifev kiz ikjiv zius. Zuci ewdip bic nacazdi millu nel mukfig sakhepbi kidiig edu iz sow hezih rakwutev lisku. Ede la ik okuzuli pe ro tu citavef duzat bontu himew kita. Lu bonseb ecgig um rompu kopjah ko ceb vi leropawah lobeze se jisatoid."
+  },
+  "apiKey": "76e45871b93e63796dfcbee2c5096007250870512023fec61b91e5918e72a142",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
