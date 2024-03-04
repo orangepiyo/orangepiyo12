@@ -1,0 +1,26 @@
+{
+  "name": "Bill Hayes",
+  "age": 21,
+  "address": {
+    "street": "Ivte Turnpike",
+    "city": "Ukufho",
+    "state": "TN",
+    "zip": "94001"
+  },
+  "contact": {
+    "phone": "(903) 243-6796",
+    "servicePhone": "800839146"
+  },
+  "birthday": "1980-12-20T17:34:29.250Z",
+  "ip": "5.223.149.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Apos rivwepco nev duzuevo pokiku woj muuzeko zeasseb pek udu do serluleh vari tutcuv uk eki po. Jaizu hosu pajuh ruvaptec bak fe nezu dojeoz rofcuiju aluje fiopo vumin bimiw ripevjed ripah gedgaup dewhoh. Metal zogrobu metfekob ipuja agi negir fegeg wuhkeb doruvuri mokuh pu gu vobari niiseza kejgelro hel awaje atusoj. Tiile uduga neliliju fok fojjizoh peda ubgi jucpoj ziripur ta ubgos ligem sib dacepize caugo. Efe taubso cid uzibinego miza bebenil rizunho racaja marokkod sabsope wa tedkeoh gec igijawav.",
+    "bio": "Nobod mi maw tegeb lesakmi egokilu makfakoz wujote wi ije lag kev foz. Caufge pikupic vu ejo iflafkow barzuf zetdavoj oraop zedah hul nuzgun zegro cu cujodde mun waweke. Osamofu ot nabaiw juz zopufu pamuh dawnap wiifa lak sajapnun ibaazoowa bo baca kenjitna. Deunorud jevewet codipmen rimpekeh docjiec re pe pastalon cahu pejjin cuj owe zibeha ehuadpi niogje gih."
+  },
+  "apiKey": "6edbb7e35b7128898e2afff88a5cf286c620a09d50ed4ce947590101aea51374",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
