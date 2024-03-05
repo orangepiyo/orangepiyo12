@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Ramsey",
+  "age": 64,
+  "address": {
+    "street": "Wauge Center",
+    "city": "Ebojari",
+    "state": "MN",
+    "zip": "76456"
+  },
+  "contact": {
+    "phone": "(765) 417-1899",
+    "servicePhone": "800666343"
+  },
+  "birthday": "1975-09-14T13:54:56.701Z",
+  "ip": "250.115.203.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Vemmaeda heluce hagu juvocic tup umu sat dumviva elazar cin epdoigi zokpi ranjisri. Wekhivac hu hapve muzsa ohegehe rekew onedo pum falebag hahussa epivub la. Hug jo fip edledip kec hel izevosuw of odibobo vo bo viicu ki bedafhi. Ho fijtefo bamo de ofkoceb dig dah idu taohjor modiz tahgoj kila nafag sanoh. Mo pe durceluz ril lop naosjof ij azaoki lu zeav so rucikzi za wemrewek ba catpe so kilifhuj. Fecas hulgehti nomoja biro hez pivrema sonho toco ne fo kemkat uzle fa karek.",
+    "bio": "Hineg valejezap hoki boli tu nehibah rib cav durapmi mo wu vavpu najec eradebni bowi. Loat metwit ki mogmu dulut jeg pogfoesu bisbaz zaptar pujade tubvo po wavtan. Cekoso ru okainu darlenba ote uni ta juz patgaeb haodko kiwaceot jekuhivo rujuv. Kod aram pohe owimug jugti jiiko zobe zamopu zeimiiw uma wil kezunhu ca hubuk. Ir wugci dular cakercu locwiobu iliro apu sokuceg havizo ibto kuz rielopej deuv woibibah."
+  },
+  "apiKey": "c44005815dc4040e88a0985d68d0190a13fcd8a1417019cfd77d572bc1561fb6",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
