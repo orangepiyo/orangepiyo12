@@ -1,0 +1,26 @@
+{
+  "name": "Robert Black",
+  "age": 63,
+  "address": {
+    "street": "Folvo Grove",
+    "city": "Vorwormef",
+    "state": "IL",
+    "zip": "64714"
+  },
+  "contact": {
+    "phone": "(712) 415-1670",
+    "servicePhone": "800126594"
+  },
+  "birthday": "1969-03-11T13:13:48.848Z",
+  "ip": "169.194.115.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Tep ehazungut igunibac faititac gutruvah tuh nuhon uwri vow ozejadri fedol muz rek ses saniw mobisde. Iji lisved jiraghaj wutohu usi hof johlijil pop aleja zureb bobeha wasul bijeje ohojed lanep rem bugovras. Bodkemuz cacefa mijpe keretaj civufi ma mofus se putu oh pohhizmol pow.",
+    "bio": "Ir sunrekzaw jabeibo nemmak det vo onfa jiridzew ka coblih mugmicpa zugpissis eculidu san hakezaera tam tujlukkud pu. Heglun peb oturah kuanedu mosboh obuafa hap faldop dabipu difibur rirvus memhaj irabusut. Rejufpov jiag hovucpe ilka kagcagcaw no fa tegep sosric vu el ivu ew veze jiblobbun revri evodo wezti. Fi losalfu celar lehef kev jobod aj nijke ubizur gekogu so sus keluova."
+  },
+  "apiKey": "6da5cc1c15b8749ffd535aa69fbf095a17e33264cc31c444e0809424243b04bf",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
