@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Carr",
+  "age": 55,
+  "address": {
+    "street": "Rakmaz Mill",
+    "city": "Guvotno",
+    "state": "ND",
+    "zip": "67743"
+  },
+  "contact": {
+    "phone": "(508) 568-4294",
+    "servicePhone": "800192233"
+  },
+  "birthday": "1988-10-17T00:06:56.389Z",
+  "ip": "115.185.175.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Jotcaki ori dul emabo puweztaj dol zeadi aluompuf reigacen cughi niiji itda pukezci. Zub me gu ebule tolkoez himfa gawebav amru risi okzizis orab epmuw behi pa ceshep bote. Umvirjad desuk jad idawim reuz fapvibu ci zana ijratder ew vu sanmol dalefus mozote. Ogda is mivbas ipidop bankomih kowunzo nupam detdof fa agembe icgotjos vapajid re uvdomut soha ro kaz.",
+    "bio": "Wopfok zatlos vuz fomupiz subli owe hacahbuk icjum lik mij hople az. Mew mobkeem bieg azroglit duz om arke viugioro zic wezrotwil wodohueg vunhih sad cehnuh hepo vilvig vuopva. Apugog ewiwe epovuzug na weh awa tinsuk do gozu ebegid ca leburi hu bafej pi cir gugij."
+  },
+  "apiKey": "b188da58e3a89d83d11334a6b92a592fdfab2f1cdc71fb7bd4e4cb62f9a5236f",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
