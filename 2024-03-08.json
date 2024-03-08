@@ -1,0 +1,26 @@
+{
+  "name": "Lettie Baker",
+  "age": 45,
+  "address": {
+    "street": "Bekutu Mill",
+    "city": "Kihesro",
+    "state": "IL",
+    "zip": "27334"
+  },
+  "contact": {
+    "phone": "(378) 804-5622",
+    "servicePhone": "800491859"
+  },
+  "birthday": "1987-10-19T19:41:29.287Z",
+  "ip": "101.209.152.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Tej havasok buet uso sejizohuw duiwoeso eruzahjo icugi ob kojsedwe lit mavsehum. Ijoez bikug obe gac iw nasisci sog sonorgi pula ku isuiso ib ubciveg bejib mef ecwob. Co tieftuj uruhefa ref ra haedgaz owodun norcuiv wezu gejema jibnisfe vicda lomzad se. Wolezfi ujzew duceaje hesoag nusit hamho ibhimru po lu rafvabar won vop winfod cug nugjuwi.",
+    "bio": "Lilogpi hejudsez mo ufo poan te os lugav bufevug cekivfid no tosvaep. Vawtas dowod kuw wibjiv gurwosdad wowwaf ko omojoga mac tavgozkeg ok ija avaebi pupjeak. Zen ure tuiloba agi azi lo dautoami zup cickohit vohop cumuuze co ris hemson zinuv rec. Abe japael vapwiz etfa pumajmo getefneb vokeca popoj genpobike iru dez hefesa."
+  },
+  "apiKey": "0b07920e7066a9893a2c95a6f0ebcdbcf5ea759f09af4fa0ddc89e3797a98953",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
