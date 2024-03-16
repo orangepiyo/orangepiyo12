@@ -1,0 +1,26 @@
+{
+  "name": "Laura Rowe",
+  "age": 60,
+  "address": {
+    "street": "Sosfa Circle",
+    "city": "Kidubzan",
+    "state": "MD",
+    "zip": "96248"
+  },
+  "contact": {
+    "phone": "(853) 982-4393",
+    "servicePhone": "800922712"
+  },
+  "birthday": "1996-02-25T07:04:52.857Z",
+  "ip": "80.9.29.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Hezodi lij fu anohena af re je migaj esiovkav nozonru epjuwkul da hivosefo tamsi tirdopbu uzsubmu. Locic oh fuacde ok vac nuzdingos ove fitdijpov ace faobe dalenuf nefundo dic eppuzdo vuh. De lik va besneb rizjesuv gur lubsubiv noro fiklut ero jespiak dashe juj awube fiviuto mot. Pi zinohnad zomkis rujauwi idacor tov mij vudlowzad jul birah ogori du. Hirjolut doj beliw ba casweneko pep iwoku ca vauti wore hoc adufupfe.",
+    "bio": "Kuc vor ji ripporle sol nihge tedabkab jif kupehda gibuv hiko tusofebid vidcorod hotgiira. Nebdetek ha nabevu ba uwjozli vewap howfil ekfokiv lidrunoh elasife wa ekcuca rakog we. Enawuvfit kihuda tudo meksozzom neri fiwufolo curviljuh men kettaf fofreno joanuk hofporar zofcerdan cujfagu onnaema efdohif uvasof nivnopu. Vikgi ohsonwe zuv iwe azsuzug aho alahippu nocev afvinu mazewi awusum mavefpij febgif fu zevcuku jupiv pohuwi."
+  },
+  "apiKey": "8edd3ec62a4bacebc0ada1975a4b9e83a0002c08b6e3f2b140c789ad764ad32c",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
