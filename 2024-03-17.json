@@ -1,0 +1,26 @@
+{
+  "name": "Dylan Cummings",
+  "age": 21,
+  "address": {
+    "street": "Sanih Road",
+    "city": "Wicosa",
+    "state": "LA",
+    "zip": "67485"
+  },
+  "contact": {
+    "phone": "(515) 590-7256",
+    "servicePhone": "800892257"
+  },
+  "birthday": "1970-09-21T09:46:20.992Z",
+  "ip": "17.78.0.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Itaezse ane vefurom wujse ojekin lil kioc icedi momaked aw jamcuj tat ge wigec gus mir fe nereude. Huzuloc to eta epiawuin iwmosfim bijpowgu vuk mobub ac luri opmoede ulaulo pomwejge ojaav nahu. Binaw go elo keza rugvi du ka hinma vose giciv wuge tu veuve vuzaf emi hursag gurtuc.",
+    "bio": "Dag ji rufuzo mophu owe re luzfodiw ukah jehe umeen wu depat po agces dipci zefki jewre. Softotpap era mipmiwbig di su hasufe wuhugaij kos supoj robsid dian fucnip zoduboim fejoc vuz zir ji owusaavo. Welaco codto tic velogos nowros bijsogaf re robohnek micok bouzecor luf tut ofa me ofpi woza. Itaaf lenib masobze dez be sa keto simzi majruf za mun fu. Iwagewa mipse judnukiv menu hifni misehew tuwbo gulrilsu wo zavaul uhdicuf wok tozetej to edesebop ve ujeawumu. Sata lupdefis jogjondu sagre vul notetwo oniku gevemsiv jiv roci ota huak ibi kososume nibfotu iszeflu."
+  },
+  "apiKey": "0970c21e33009bcd0049d31d41e266bcfd90d8bd34abf4fbb75649fb6872fee8",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
