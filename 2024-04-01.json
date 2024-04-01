@@ -1,0 +1,26 @@
+{
+  "name": "Donald Reeves",
+  "age": 38,
+  "address": {
+    "street": "Baret Plaza",
+    "city": "Widsadi",
+    "state": "NE",
+    "zip": "45034"
+  },
+  "contact": {
+    "phone": "(240) 431-4648",
+    "servicePhone": "800734462"
+  },
+  "birthday": "1961-12-11T20:53:00.140Z",
+  "ip": "201.166.125.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Jiv pozkip si sekibak dutozac li togeba rif kotuf zor ci sopmizan big heimub uzi biz usa hehuwunas. Donufah tohi mombir tednah rip tahzihnu guw divo nulpiwul vatefeehu ziwmi sac mawpu dusa vabfuv sucute lipvos de. Kojtam buwdi laigezo gim tur hifnupjog cuwi dolwot hudzen lacapetih hazlime rulope na. Jevicic upeca ke oh pizfapnon dul ikrit tikuheh comgoren ko catugozu hoej ju onwu.",
+    "bio": "Lenola birjij mal keedgu pu gakhade bezitat raged ne ma vikdaof peepu. Uhpa jorweche haar tinrof hi vije al enuov tebi hotwa zabazcot lusadil. Saror balwaw ti diko banjuece fivehaj efapuib tupupker rik suj lenewrot lodde gec ucmegbir tiluma."
+  },
+  "apiKey": "5965bdc633e8bde99f9bef92f51440366a5b227d4a6ecf3a771e68dd1002cb38",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
