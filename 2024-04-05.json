@@ -1,0 +1,26 @@
+{
+  "name": "Lettie Brock",
+  "age": 43,
+  "address": {
+    "street": "Zien Plaza",
+    "city": "Sikurhi",
+    "state": "MA",
+    "zip": "20231"
+  },
+  "contact": {
+    "phone": "(830) 419-8172",
+    "servicePhone": "800778287"
+  },
+  "birthday": "1996-10-06T08:40:55.609Z",
+  "ip": "91.108.181.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Uci woib zipaza ic zeci voz wovjawu nohte deplur seku zigo anhatvo. Tickem bimtu kodgi wo ine va tumo se fimu cucki idoapmi serez du. Babapu jamomekeb emewerub foenuse jepli sib fum on zebibic wuba obovoc cene hamvos atehup.",
+    "bio": "Diewaik fijjonec wepunmud muno ohegihje li ewe giipezak evobi mi nud enideheb gownu doopuko venluvi gawipa zuhir. Sakpilvi dup ijraf ik ku hij edu zatehmo az haw arrahvig ne fegver olakatu puhhin wiaduguz. Tozofi cel huribub ke zov mokeza rolgubgo ni furucru tunusfok jelumgac pa sigweno memvola jacob rugha to kowusfew. Ce unuiku adutolze suf en utuhor wuzta epapa sozudas malupfi fajbi fih."
+  },
+  "apiKey": "b1c2b2a1d0932bdf96ab9b7622f1b61fa3a2aff7994883e4223f90eed7add324",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
