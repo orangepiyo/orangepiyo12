@@ -1,0 +1,26 @@
+{
+  "name": "Dean Haynes",
+  "age": 36,
+  "address": {
+    "street": "Jejto Way",
+    "city": "Kaksofsu",
+    "state": "ID",
+    "zip": "99623"
+  },
+  "contact": {
+    "phone": "(240) 439-4367",
+    "servicePhone": "800112442"
+  },
+  "birthday": "1976-12-18T14:01:41.117Z",
+  "ip": "95.44.105.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Anratoc sofbaj nop kizgauk pidov hiena pafamzed re unjafder azinof pipa pal detsohe. Vute safla pefazic zec ce fajelwof jiini nu me uro wanefat cugwo liobedeb remnurat cihnokmi. Metwake feawcu siddu zauk komlenmuj kebtetes somharo wi ma ew loc worfi agu edo dime buesibi edzi imuheh.",
+    "bio": "Nornaz rozo duto putpo coomor ko dofek lugehoihi nivo buw ca tihlabnin re dacokjo noz simvoj saj. Samhet uhwenpa fupuhi kolipe rildif zadgeg ocu voweb muwpe kibehokuh seltolfop davefev meszawro up lar ni zo. Supakraw ziv keluez ti mubus redjopa oda gokbafew beh ile kevut ajoki lasot dowwo gimi."
+  },
+  "apiKey": "d7fb5ef57e723359e7b62f8075c3b765cee1c4b3a3cf8a3e305f917e658e5c41",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
